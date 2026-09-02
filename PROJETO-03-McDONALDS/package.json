@@ -1,0 +1,12 @@
+{
+  "name": "projeto-03-mcdonalds-prototype",
+  "version": "1.0.0",
+  "description": "Sistema de pedidos McDonald's utilizando o padrão GoF Criacional Prototype.",
+  "main": "src/McOfertas.js",
+  "scripts": {
+    "start": "node src/McOfertas.js"
+  },
+  "keywords": ["javascript", "prototype", "design-patterns", "nodejs"],
+  "author": "",
+  "license": "ISC"
+}
